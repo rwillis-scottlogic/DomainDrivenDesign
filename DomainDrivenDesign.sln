@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainDrivenDesign", "DomainDrivenDesign\DomainDrivenDesign.csproj", "{5502D3D7-B1C7-48C1-B8BD-52CED46DAEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainDrivenDesign.Example", "DomainDrivenDesign.Example\DomainDrivenDesign.Example.csproj", "{8E392A6A-145F-4466-868A-0CB9BCF6BEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5502D3D7-B1C7-48C1-B8BD-52CED46DAEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5502D3D7-B1C7-48C1-B8BD-52CED46DAEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5502D3D7-B1C7-48C1-B8BD-52CED46DAEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5502D3D7-B1C7-48C1-B8BD-52CED46DAEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E392A6A-145F-4466-868A-0CB9BCF6BEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E392A6A-145F-4466-868A-0CB9BCF6BEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E392A6A-145F-4466-868A-0CB9BCF6BEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E392A6A-145F-4466-868A-0CB9BCF6BEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
